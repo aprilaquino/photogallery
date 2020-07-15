@@ -46,3 +46,17 @@ h2{
 	width: 96%;
 	padding-bottom: 20px;
 }
+
+@media only screen and (max-width: 500px) {
+  img {
+    height: 130px;
+    width: 156px;
+  }
+
+  div.container{
+    font-size: 12px;
+  }
+   .column {
+  width: 50%;
+}
+}
